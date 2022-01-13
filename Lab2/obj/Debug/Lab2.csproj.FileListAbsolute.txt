@@ -1,0 +1,20 @@
+D:\MAI\Pprog\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\MAI\Pprog\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\MAI\Pprog\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\MAI\Pprog\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\mrjer\Desktop\Учёба (7 семестр)\Параллельное программирование\Лабораторные работы\2 лаба\Lab2\Lab2\obj\Debug\Lab2.pdb
